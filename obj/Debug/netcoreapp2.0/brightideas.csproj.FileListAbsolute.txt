@@ -1,0 +1,10 @@
+/Users/david/Desktop/Coding Dojo/csharp/brightideas/bin/Debug/netcoreapp2.0/brightideas.deps.json
+/Users/david/Desktop/Coding Dojo/csharp/brightideas/bin/Debug/netcoreapp2.0/brightideas.runtimeconfig.json
+/Users/david/Desktop/Coding Dojo/csharp/brightideas/bin/Debug/netcoreapp2.0/brightideas.runtimeconfig.dev.json
+/Users/david/Desktop/Coding Dojo/csharp/brightideas/bin/Debug/netcoreapp2.0/brightideas.dll
+/Users/david/Desktop/Coding Dojo/csharp/brightideas/bin/Debug/netcoreapp2.0/brightideas.pdb
+/Users/david/Desktop/Coding Dojo/csharp/brightideas/obj/Debug/netcoreapp2.0/brightideas.csproj.CoreCompileInputs.cache
+/Users/david/Desktop/Coding Dojo/csharp/brightideas/obj/Debug/netcoreapp2.0/brightideas.AssemblyInfoInputs.cache
+/Users/david/Desktop/Coding Dojo/csharp/brightideas/obj/Debug/netcoreapp2.0/brightideas.AssemblyInfo.cs
+/Users/david/Desktop/Coding Dojo/csharp/brightideas/obj/Debug/netcoreapp2.0/brightideas.dll
+/Users/david/Desktop/Coding Dojo/csharp/brightideas/obj/Debug/netcoreapp2.0/brightideas.pdb
